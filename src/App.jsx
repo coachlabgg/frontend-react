@@ -12,7 +12,7 @@ function App() {
   return(
     <Sidebar aria-label="Sidebar with logo branding example">
       <Sidebar.Logo href="#" img="/favicon.svg" imgAlt="Flowbite logo">
-        Flowbite
+        Flowbitee
       </Sidebar.Logo>
       <Sidebar.Items>
         <Sidebar.ItemGroup>
